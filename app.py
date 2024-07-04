@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 # Header
-st.header('Dados de Matrículas da Educação de Jovens e Adultos (EJA) na Bahia')
+st.header('Dados de Matrículas da Educação de Jovens e Adultos (EJA)')
 
 # Menu Lateral
 st.sidebar.title('Menu')
